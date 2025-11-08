@@ -2,7 +2,7 @@
 
 ## 📜 Project Overview
 
-This project aims to analyze hospital patient wait times to identify trends, bottlenecks, and opportunities for operational improvements. By examining various factors such as day of the week, time of day, and different patient/consultation types, we can gain insights into optimizing patient flow and reducing wait times.
+This project aims to use Excel to analyze hospital patient wait times to identify trends, bottlenecks, and opportunities for operational improvements. By examining various factors such as day of the week, time of day, and different patient/consultation types, we can gain insights into optimizing patient flow and reducing wait times.
 
 ## ✨ Key Features & Analysis Highlights
 This project demonstrates proficiency in several Excel functions and analytical techniques:
