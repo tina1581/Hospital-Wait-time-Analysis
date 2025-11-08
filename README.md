@@ -16,10 +16,8 @@ This project demonstrates proficiency in several Excel functions and analytical 
 * **Dynamic Analysis with Pivot Tables:**
     * Created pivot tables to aggregate and summarize data, revealing patterns in patient volume and average wait times across different hours and days of the week.
         * **Patient Volume by Hour & Day:**
-          <img width="936" height="386" alt="image" src="https://github.com/user-attachments/assets/b43fda5a-9a93-4eea-a2d8-df88bfeb27c9" />
-        * **Patient Volume by Hour & Day:**
           <img width="814" height="382" alt="image" src="https://github.com/user-attachments/assets/3c0a5f68-4d40-4f31-8922-2be962d3db28" />
-        * **Patient Process Time and Their Insurance:**
+        * **Check-in time and Their Insurance:**
           
           <img width="482" height="234" alt="image" src="https://github.com/user-attachments/assets/ef0e6876-48af-4044-910a-1dc86e711eec" />
 
@@ -42,7 +40,7 @@ This project demonstrates proficiency in several Excel functions and analytical 
 ## 💡 Key Findings & Insights
 - Monday is the Peak Stress Day: Monday consistently shows the highest patient volume, resulting in the longest average wait time (59 minutes).
 - Morning Rush Bottleneck: Wait times peak sharply around 10 AM, hitting nearly 60 minutes. This indicates the morning hours (9 AM–12 PM) are critical for potential staff shortages or system overload.
-- Process Time Bottleneck Confirmed: Due to data limitations, the exact consultation time was not calculable. However, with the efficient checkout process established as being under 5 minutes, the major bottleneck (the 88% of non-consultation time) is confidently attributed to the pre-consultation process (patient check-in, initial triage, and waiting room time).
+- Process Time Bottleneck Confirmed: Due to data limitations, the exact consultation time was not calculated. However, with the efficient checkout process established as being under 5 minutes, the major bottleneck is confidently attributed to the pre-consultation process (patient check-in, initial triage, and waiting room time).
 - Operational Focus on Major Insurance Types: While Medicare patients may show the longest average wait time, they represent a statistically insignificant portion (approx. 1%) of the overall patient volume.
 Operational focus should be placed on Insurance (the specific type with 46 min wait) and the high-volume segments like Private and HMO, as these categories significantly impact the overall patient flow and resource management.
 
