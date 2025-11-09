@@ -32,6 +32,7 @@ This project demonstrates proficiency in several Excel functions and analytical 
 
 * **Conditional Formatting:**
     * Applied conditional formatting to highlight critical data points, such as exceptionally long wait times or high-volume periods
+      
       <img width="475" height="248" alt="image" src="https://github.com/user-attachments/assets/f0a39d6e-3046-440b-9e01-ddc158d5a99b" />
 
       <img width="452" height="277" alt="image" src="https://github.com/user-attachments/assets/572cdeab-9406-47e9-b604-5a93e439512a" />
