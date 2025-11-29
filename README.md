@@ -1,10 +1,10 @@
-# 🏥 Hospital Wait Time Analysis Project
+# Hospital Wait Time Analysis Project
 
-## 📜 Project Overview
+## Project Overview
 
 This project aims to use Excel to analyze hospital patient wait times to identify trends, bottlenecks, and opportunities for operational improvements. By examining various factors such as day of the week, time of day, and different patient/consultation types, we can gain insights into optimizing patient flow and reducing wait times.
 
-## ✨ Key Features & Analysis Highlights
+## Key Features & Analysis Highlights
 This project demonstrates proficiency in several Excel functions and analytical techniques:
 
 * **Data Cleaning & Preparation:**
@@ -38,7 +38,7 @@ This project demonstrates proficiency in several Excel functions and analytical 
       <img width="452" height="277" alt="image" src="https://github.com/user-attachments/assets/572cdeab-9406-47e9-b604-5a93e439512a" />
 
 
-## 💡 Key Findings & Insights
+## Key Findings & Insights
 - Monday is the Peak Stress Day: Monday consistently shows the highest patient volume, resulting in the longest average wait time (59 minutes).
 - Morning Rush Bottleneck: Wait times peak sharply around 10 AM, hitting nearly 60 minutes. This indicates the morning hours (9 AM–12 PM) are critical for potential staff shortages or system overload.
 - Process Time Bottleneck Confirmed: Due to data limitations, the exact consultation time was not calculated. However, with the efficient checkout process established as being under 5 minutes, the major bottleneck is confidently attributed to the pre-consultation process (patient check-in, initial triage, and waiting room time).
@@ -46,9 +46,9 @@ This project demonstrates proficiency in several Excel functions and analytical 
 Operational focus should be placed on Insurance (the specific type with 46 min wait) and the high-volume segments like Private and HMO, as these categories significantly impact the overall patient flow and resource management.
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-* **Microsoft Excel** (Version [e.g., 365, 2019])
+* **Microsoft Excel** 
     * Pivot Tables
     * Conditional Formatting
     * Formulas (e.g., `HOUR()`, `TEXT()`, `DATEDIF()` or custom time calculations)
